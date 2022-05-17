@@ -1,8 +1,8 @@
-## Interface: 90002
+## Interface: 90200
 ## Title: Name2Chat
 ## Notes: Adds your name to chat messages
-## Author: @project-author@
-## Version: @project-version@
+## Author: Anarior-Aman'thul
+## Version: 2.0
 ## SavedVariables: Name2ChatDB
 ## OptionalDeps: Ace3
 
