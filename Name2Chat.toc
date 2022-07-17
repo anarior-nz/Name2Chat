@@ -2,13 +2,9 @@
 ## Title: Name2Chat
 ## Notes: Adds your name to chat messages
 ## Author: Anarior-Aman'thul
-## Version: 2.1.0
+## Version: 2.5.0
 ## SavedVariables: Name2ChatDB
-## OptionalDeps: Ace3
 
-#@no-lib-strip@
 embeds.xml
-#@end-no-lib-strip@
-
 locale.xml
 Name2Chat.lua
