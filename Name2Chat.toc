@@ -1,8 +1,8 @@
-## Interface: 90205
+## Interface: 100002
 ## Title: Name2Chat
 ## Notes: Adds your name to chat messages
 ## Author: Anarior-Aman'thul
-## Version: 2.5.0
+## Version: 3.0
 ## SavedVariables: Name2ChatDB
 
 embeds.xml
